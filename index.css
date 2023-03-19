@@ -1,0 +1,46 @@
+form{
+    background-color: skyblue;
+    width: 500px;
+    padding: 20px 40px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    box-shadow: 10px 10px 8px 10px rgb(251, 249, 249);
+
+}
+
+label{
+    font-weight: 300;
+    color: #101030;
+}
+
+input{
+    display: block;
+    margin-top: 5px;
+    padding: 12px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+input[type ="button"]{
+    margin-top: 15px;
+    width: 30%;
+    font-size: 17px;
+    margin-left: 177px;
+    cursor: pointer;
+    background-color:lightsteelblue;
+    font-weight: 600;
+   
+ 
+    
+
+}
+p{
+    font-size: 14px;
+    margin: 15px 0;
+    display: inline-block;
+    color: #121111;
+    font-weight: bold;
+}
